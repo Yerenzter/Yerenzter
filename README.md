@@ -1,8 +1,15 @@
+# About Me!
+
+Hi! I'm Yerenzter the software developer and founder of Qubonic Arts & Software, AYCQ. formerly known as Gladiolus Interactive Lab. A young Filipino student, mentor & casual coder and a student from CCS-BSIT of University of Antique.
+
 - RENZTER ARIZALA PROPERTY!
 - Qubonic A&S Developer
 - Master web developer
 
-<!---
-Yerenzter/Yerenzter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Social links
+
+[Yerenzter Website](https://yerenzter.github.io)
+[Facebook](https://facebook.com/yerenzter)
+[Instagram](https://instagram.com/yer2003.umi10)
+[YouTube](https://youtube.com/channel/UCZPtBbdCU-mha5BMWZrdK9A)
+[Itch](https://yer2003.itch.io)
