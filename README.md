@@ -6,6 +6,19 @@
 
 Hi! I'm Yerenzter the software developer and founder of Qubonic Arts & Software, AYCQ. formerly known as Gladiolus Interactive Lab. A young Filipino student, mentor & casual coder and a student from CCS-BSIT of University of Antique.
 
+### Hobbies
+- Coding
+- Chat with my dear
+- Playing chess & video games
+- Reading books & magazines
+- Watching
+- Trekking
+- Graphic designing
+- Riding motorcycle
+- Taking picture
+- Eating
+- Sleeping-h
+
 ### Social links
 
 - [Yerenzter](https://yerenzter.github.io)
