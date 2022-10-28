@@ -17,7 +17,7 @@ Hi! I'm Yerenzter the software developer and founder of Qubonic Arts & Software,
 - Riding motorcycle
 - Taking picture
 - Eating
-- Sleeping-h
+- Sleeping
 
 ### Social links
 
