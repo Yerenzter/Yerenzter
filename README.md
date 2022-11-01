@@ -4,7 +4,7 @@
 - Qubonic A&S Developer
 - Master web developer
 
-Hi! I'm Yerenzter the software developer and founder of Qubonic Arts & Software, AYCQ. formerly known as Gladiolus Interactive Lab. A young Filipino student, mentor & casual coder and a student from CCS-BSIT of University of Antique.
+Hi, I'm Yerenzter the software developer and founder of Qubonic Arts & Software, AYCQ. formerly known as Gladiolus Interactive Lab. A young Filipino student, mentor & casual coder and a student from CCS-BSIT of University of Antique.
 
 ### Hobbies
 - Coding
